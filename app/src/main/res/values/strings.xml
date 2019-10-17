@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerViewMVP</string>
+    <string name="error_load_post_text">Loading error! Try again?</string>
+    <string name="snackbar_action_retry">RETRY</string>
+    <string name="locationLine" formatted="false">%s %s</string>
+    <string name="sharedElement">Image</string>
+    <string name="no_internet_title">No Internet connection.</string>
+    <string name="no_internet_content">You have no internet connection</string>
+    <string name="ok">Okay</string>
+    <string name="not_mvp">THIS IS NOT MINIMUM VIABLE PRODUCT</string>
+</resources>
